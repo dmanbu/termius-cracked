@@ -71,7 +71,7 @@ e.access_objects=[{
         "end": "2099-01-01T00:00:00"
     },
     "title": "Pro"
-}]
+}];
 return .......
 ```
 3. 启动Termius，登录账号，重启Termius
